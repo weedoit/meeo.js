@@ -1,0 +1,29 @@
+{
+  "name": "meeo.js",
+  "version": "0.5.0",
+  "description": "A simple javascript template engine.",
+  "main": "dist/meeo.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weedoit/meeo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "javascript",
+    "components"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.11.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.5"
+  },
+  "author": "@brunoziie <eu@brunoziie.com>",
+  "license": "ISC"
+}

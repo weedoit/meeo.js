@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "out": "dist/meeo.js",
+        "sourceMap": true
+    },
+    "files": [
+        "src/meeo.ts",
+        "src/element.ts",
+        "src/elements.ts",
+        "src/components.ts",
+        "src/helpers.ts",
+        "src/core_elements.ts",
+        "src/core_helpers.ts"
+    ]
+}
